@@ -1,0 +1,6 @@
+# Ignore Zip files
+*.zip
+
+# Ignore files releted to externall apps
+.prettierrc.json
+.vscode/
