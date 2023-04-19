@@ -4,3 +4,6 @@
 # Ignore files releted to externall apps
 .prettierrc.json
 .vscode/
+
+# Ignore Cover Letter
+*.docx
